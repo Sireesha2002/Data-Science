@@ -1,0 +1,1 @@
+This is my first write operation in the file'w' mode writes anything into the text. If we want to write more information into the file and calls write operation it will erase all the previous information and writes the new one. To avoid this situation we use 'a' mode.This will append the new information at the end of the file.
